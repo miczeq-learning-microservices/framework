@@ -1,0 +1,30 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miczeq-learning-microservices/framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miczeq-learning-microservices/framework/issues"
+  },
+  "homepage": "https://github.com/miczeq-learning-microservices/framework#readme",
+  "dependencies": {
+    "awilix": "5.0.1",
+    "jest": "27.2.2",
+    "knex": "0.95.11",
+    "rascal": "13.1.1",
+    "winston": "3.3.3"
+  },
+  "devDependencies": {
+    "@types/jest": "27.0.2",
+    "@types/knex": "0.16.1",
+    "@types/rascal": "10.0.4",
+    "@types/winston": "2.4.4"
+  }
+}
